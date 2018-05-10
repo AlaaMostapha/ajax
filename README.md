@@ -4,9 +4,7 @@ first task:
 save data in server using ajax request
 
 1-When the user fills in the form and submits the form
-
 2-it send an ajax request to the server to save the data
-
 3-The server will return “true” if the student was saved successfully and will return “false” otherwise
 
 
